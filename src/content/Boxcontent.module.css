@@ -1,0 +1,15 @@
+.sub-box {
+    display: flex;
+    justify-content: left;
+}
+
+.title{
+    text-align: center;
+    background-color: #f6f6f6;
+    width: 90%;
+}
+
+.wrapTitle{ 
+    display: flex;
+    justify-content: center;
+}
